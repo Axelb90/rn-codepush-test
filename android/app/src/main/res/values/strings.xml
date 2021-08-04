@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">holamundo</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+<string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+      <string moduleConfig="true" name="CodePushDeploymentKey">D1DQ7xk8nZ1QLwQUVEM3H02JzQm1BC0JR85eb</string>
+</resources>
