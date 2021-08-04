@@ -29,7 +29,7 @@ const App = () => {
   return (
     <View>
       <Text>Hello world</Text>
-      <Text>Hello mundo</Text>
+      <Text>Hello mundillo</Text>
       <TouchableOpacity onPress={handleOnPress}>
         <Text>Sync CodePushs</Text>
       </TouchableOpacity>
